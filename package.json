@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "nodemon": "^1.19.1",
-    "serverless": "^1.49.0",
+    "serverless": "^1.83.3",
     "uuid": "^3.3.2"
   }
 }
